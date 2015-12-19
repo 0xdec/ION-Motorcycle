@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 1052.3622 744.09448"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="base_geometry.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4146"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="393.48793"
+     inkscape:cy="200.69931"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="1001"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     units="in">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4136"
+       color="#ff00ff"
+       opacity="0.1254902"
+       units="mm"
+       spacingx="3.5433071"
+       spacingy="3.5433071"
+       empspacing="10"
+       dotted="false"
+       originx="526.18111"
+       originy="17.716535" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-308.26772)">
+    <circle
+       style="fill:none;fill-opacity:0.78481014;fill-rule:nonzero;stroke:#000000;stroke-width:0.35416827;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4140"
+       cx="278.1496"
+       cy="948.57874"
+       r="103.60638">
+      <desc
+         id="desc4476">Front tire</desc>
+    </circle>
+    <circle
+       style="fill:none;fill-opacity:0.78481014;fill-rule:nonzero;stroke:#000000;stroke-width:0.3543815;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4140-6"
+       cx="774.21259"
+       cy="939.01184"
+       r="113.1732">
+      <desc
+         id="desc4478">Rear tire</desc>
+    </circle>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.12598431, 2.12598431;stroke-dashoffset:0;stroke-opacity:0.49803922"
+       d="M 0,844.13448 1052.3622,714.92064"
+       id="path4468"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc">
+      <desc
+         id="desc4474">Main line guide</desc>
+    </path>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.12598431, 2.12598431;stroke-dashoffset:0;stroke-opacity:0.49803922"
+       d="M 707.08081,1250.7874 345.2814,308.26771"
+       id="path4470"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc">
+      <desc
+         id="desc4472">Body Back Guide</desc>
+    </path>
+    <path
+       style="opacity:0.98000004;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.12598431, 2.12598431;stroke-dashoffset:0;stroke-opacity:0.49803922"
+       d="M 200.23292,1151.5748 523.94818,308.26771"
+       id="path4480"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc">
+      <desc
+         id="desc4482">Rake guide</desc>
+    </path>
+    <path
+       style="opacity:0.98000004;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.12598431, 2.12598431;stroke-dashoffset:0;stroke-opacity:0.49803922"
+       d="M 1052.3622,645.16656 -328.1811,814.67596"
+       id="path4480-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc">
+      <desc
+         id="desc4482-5">Bone line guide</desc>
+    </path>
+    <path
+       style="opacity:0.98000004;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.12598431, 2.12598431;stroke-dashoffset:0;stroke-opacity:0.49803922"
+       d="M 1052.3622,994.89172 -328.18108,464.9508"
+       id="path4480-5-9"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc">
+      <desc
+         id="desc4482-5-3">Top frame guide</desc>
+    </path>
+    <path
+       style="opacity:0.98000004;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.12598431, 2.12598431;stroke-dashoffset:0;stroke-opacity:0.49803922"
+       d="M 1052.3622,1051.8156 -366.30709,507.2395"
+       id="path4480-5-9-0"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc">
+      <desc
+         id="desc4482-5-3-5">Bottom frame guide</desc>
+    </path>
+    <path
+       style="opacity:0.98000004;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.12598431, 2.12598431;stroke-dashoffset:0;stroke-opacity:0.49803922"
+       d="M 200.23292,308.26771 523.94818,1151.5748"
+       id="path4480-5-9-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc">
+      <desc
+         id="desc4482-5-3-50">Body front guide</desc>
+    </path>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.12598431, 2.12598431;stroke-dashoffset:0;stroke-opacity:0.49803922"
+       d="m 0,981.49606 1052.3622,0"
+       id="path4556"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc">
+      <desc
+         id="desc4558">Body bottom guide</desc>
+    </path>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.12598431, 2.12598431;stroke-dashoffset:0;stroke-opacity:0.49803922"
+       d="M 1016.3326,1569.7559 532.09263,308.26771"
+       id="path4560"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc">
+      <desc
+         id="desc4579">Seat rear guide</desc>
+    </path>
+    <circle
+       style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35433072;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4562"
+       cx="774.21259"
+       cy="939.01184"
+       r="1.7716535" />
+    <circle
+       style="opacity:0.98000004;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.33669433;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4562-8"
+       cx="278.1496"
+       cy="948.57874"
+       r="1.7716535" />
+    <circle
+       style="opacity:0.98000004;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.35433072;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4581"
+       cx="278.1496"
+       cy="948.57874"
+       r="76.322838">
+      <desc
+         id="desc4598">Front rim</desc>
+    </circle>
+    <circle
+       style="opacity:0.98000004;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.35433072;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path4581-4"
+       cx="774.21259"
+       cy="939.01184"
+       r="76.322838">
+      <desc
+         id="desc4600">Rear rim</desc>
+    </circle>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.12598425, 2.12598425;stroke-dashoffset:0;stroke-opacity:0.49803922"
+       d="m 526.1811,908.55737 496.063,60.90888"
+       id="path4602"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc">
+      <desc
+         id="desc4640">Swingarm guide</desc>
+    </path>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.35433072;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.49803922"
+       d="m 526.1811,1070.0787 0,-35.433"
+       id="path4619"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="opacity:0.98000004;fill:#00ff00;fill-opacity:0.24705882;fill-rule:nonzero;stroke:#000000;stroke-width:0.35433069;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4701-1-1"
+       width="70.51181"
+       height="52.795277"
+       x="342.84143"
+       y="967.37872"
+       transform="matrix(0.99254615,-0.12186934,0.12186934,0.99254615,0,0)" />
+    <rect
+       style="opacity:0.98000004;fill:#00ff00;fill-opacity:0.24705882;fill-rule:nonzero;stroke:#000000;stroke-width:0.35433069;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4701-1-1-0"
+       width="70.51181"
+       height="52.795277"
+       x="328.26895"
+       y="908.93182"
+       transform="matrix(0.99254615,-0.12186934,0.12186934,0.99254615,0,0)" />
+    <rect
+       style="opacity:0.98000004;fill:#00ff00;fill-opacity:0.24705882;fill-rule:nonzero;stroke:#000000;stroke-width:0.35433069;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4701-1-1-0-8-9"
+       width="70.51181"
+       height="52.795277"
+       x="313.6965"
+       y="850.48486"
+       transform="matrix(0.99254615,-0.12186934,0.12186934,0.99254615,0,0)" />
+  </g>
+</svg>
